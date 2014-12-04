@@ -8,9 +8,9 @@ Author: 	Nigel Collier
 Contact: 	European Molecular Biology Laboratory - European Bioinformatics Institute
 		(EMBL-EBI), Hinxton, Cambridge. Email: collier@ebi.ac.uk
 Date created: 	24th July 2014
-Date modified: 	29th July 2014
+Date modified: 	4th December 2014
 
-This repo contains the following datafiles mined using the PhenoMiner system:
+This repo contains the following data files mined using the PhenoMiner system:
 
 * S1:	XML formatted data file containing text mined phenotypes from the open access
 	BMC corpus (July 2014 release), with links to 12 external ontologies and 
@@ -21,4 +21,6 @@ This repo contains the following datafiles mined using the PhenoMiner system:
 * S3: 	S1 file with S2 association rules embedded and filtered to remove those phenotype
 	entries that don't participate in S2 association rules. Additional HPO mappings 
 	were done by Tudor Groza using Bio-LarK. DTD was also added.
+* S4:   A list of abbreviations used in describing the PhenoMiner database and techniques.
+* S5:	User documentation for the Web search and REST interface.
 
