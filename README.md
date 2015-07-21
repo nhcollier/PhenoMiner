@@ -5,10 +5,14 @@ PhenoMiner
 Title:		README file for PhenoMiner data release
 Version:	1.0 
 Author: 	Nigel Collier
-Contact: 	European Molecular Biology Laboratory - European Bioinformatics Institute
-		(EMBL-EBI), Hinxton, Cambridge. Email: collier@ebi.ac.uk
+Contact: 	Department of Theoretical and Applied Linguistics - University of Cambridge
+		Email: nhc30@cam.ac.uk
+		and
+		European Molecular Biology Laboratory - European Bioinformatics Institute
+		(EMBL-EBI), Hinxton, Cambridge. 
+		Email: collier@ebi.ac.uk
 Date created: 	24th July 2014
-Date modified: 	4th December 2014
+Date modified: 	21st July 2015
 
 This repo contains the following data files mined using the PhenoMiner system:
 
@@ -23,4 +27,5 @@ This repo contains the following data files mined using the PhenoMiner system:
 	were done by Tudor Groza using Bio-LarK. DTD was also added.
 * S4:   A list of abbreviations used in describing the PhenoMiner database and techniques.
 * S5:	User documentation for the Web search and REST interface.
+* S6:	S3 file hand edited to remove 373 erroneous terms and re-indexed in the form "PMI:nnnnnn".
 
